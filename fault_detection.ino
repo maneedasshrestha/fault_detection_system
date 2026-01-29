@@ -202,7 +202,6 @@ void data()
   Serial.print("value from the sensor: ");
   Serial.println(read_ADC);
 }
-}
 
 void displaySummary()
 {
